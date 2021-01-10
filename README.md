@@ -1,4 +1,4 @@
-## Discord-Join-to-Create
+[![join-to-create-bot](https://github-readme-stats.vercel.app/api/pin/?username=navaneethkm004&repo=join-to-create-bot&theme=dark)](https://github.com/navaneethkm004/join-to-create-bot)<br/>
 
 A basic Join to Create Bot, Which works perfectly finem, Easy to setup!
 
