@@ -37,3 +37,7 @@ client.login(config.TOKEN);                     //start the bot with the bot tok
                     align="center"
                 />
             </a></div>
+            
+## CREDITS
+
+<a href="https://github.com/Tomato6966/Discord-Join-to-Create/blob/main/jointocreate.js" target="_blank">Tomato6966</a>
